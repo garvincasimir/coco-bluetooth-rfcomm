@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Bluetooth RFCOMM Sample' target in the 'Bluetooth RFCOMM Sample' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
